@@ -1,0 +1,2 @@
+dev: BASE_URL='http://enrollapp.dev.purdueglobal.edu' --color --publish-quiet --format html --out 'results/chrome_results.html'
+#stage: BASE_URL='http://    ' --color --publish-quiet --format html --out 'results/_results.html'
