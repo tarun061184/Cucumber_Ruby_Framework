@@ -1,0 +1,37 @@
+user1:
+  preferred_name: Preferred
+  first_name: First
+  middle_name: Middle
+  last_name: Last
+  prim_phone: 9999999999
+  sec_phone: 1111111111
+  email: test@test.com
+  address: 123 Main Street
+  state: Florida
+  city: Boca Raton
+  zip_code: 33433
+  m1: Active Duty
+  m2: Army
+  m3: E-2 Private
+  m4: 10-09-2020
+  m5: test
+  pswd: Password@123
+
+user2:
+  preferred_name: Test
+  first_name: Test
+  middle_name: Test
+  last_name: Test
+  prim_phone: 8888888888
+  sec_phone: 1111111111
+  email: user@test.com
+  address: 456 Main Street
+  state: Florida
+  city: Boca Raton
+  zip_code: 33433
+  m1: Active Duty
+  m2: Army
+  m3: E-2 Private
+  m4: 10-09-2020
+  m5: test
+  pswd: Password@123
